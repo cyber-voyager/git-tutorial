@@ -1,3 +1,3 @@
 console.log('index.js');
-console.log('version 4');
+console.log('version 5');
 console.log('Fidbi');
